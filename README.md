@@ -1,15 +1,12 @@
 # catatan matakuliah sistem-terdistribusi
-
 Repository ini berisi semua catatan, tugas, dan projek untuk matakuliah sistem terdistribusi
 ---
 
 ## Deskripsi Matakuliah
-
 Matakuliah ini adalah pengantar untuk sistem terdistribusi, dengan penekanan pada teknik untuk membangun sistem fungsional, dapat digunakan, dan berkinerja tinggi. Fokus utama adalah pada pemahaman prinsip dasar serta pengalaman praktis dalam merancang, mengimplementasikan, dan debugging sistem terdistribusi nyata.
 ---
 
 ## Tujuan Pembelajaran
-
 Setelah menyelesaikan matakuliah ini, mahasiswa diharapkan dapat :
 
 1. Memperoleh pemahaman mendalam tentang **Prinsip dan paradigma** yang mendasari sistem terdistribusi, seperti:
